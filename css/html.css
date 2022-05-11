@@ -1,0 +1,182 @@
+body{
+	
+	
+	background:#EDEDED;
+
+	
+
+	font-family:sans-serif;
+
+	}
+
+	
+
+.mainhead{
+
+	background:#000000;
+
+	}
+
+	
+
+.mainhead h1{
+
+	color:#ffffff;
+
+	text-align:center;
+
+	font-size:550%;
+
+	font-weight: bold;
+
+	}
+
+	
+
+.mainhead h1 t{
+
+	color:#FF0000;
+
+	}
+
+.navigeshon{
+
+	margin:0 auto;
+	font-size:175%;
+	background-color:#000000;
+
+	}
+	
+	
+.maintital{
+
+	margin:0 auto;
+        font-size:150%;
+        background:#000000;
+
+	}
+
+	
+
+.maintital .nav1{
+
+	padding-top:10px;
+
+	color:#FFFFFF;
+
+	}
+
+	
+
+.maintital .nav1 h3 t{
+
+	color:#FF0000;
+
+	}
+
+	
+
+.maintital .nav1 ul{
+
+	list-style:none;
+
+	margin:0 auto;
+
+	padding:0 auto;
+
+	}
+
+	
+
+.maintital .nav1 ul li a{
+
+	text-decoration:none;
+
+	color:#FFFFFF;
+
+	}
+
+	
+
+.maintital .nav1 ul li a:hover{
+
+	color:#FF000A;
+
+	}
+
+	
+
+.maintital .nav1 ul{
+
+	display: none;
+
+	}
+	
+
+	
+
+.navigeshon .nav2{
+
+	margin-top:10px; margin-left:10px; margin-right:10px;
+
+      border-radius:10px;
+
+      }
+
+      
+
+.navigeshon .nav2 ul{
+
+	list-style:none;
+
+	}
+
+	
+
+.navigeshon .nav2 ul li{
+
+	display: initial;
+
+	}
+
+	
+
+.navigeshon .nav2 ul li button{
+
+	background-color:#000000;
+	font-size:125%;
+	background:transparent;
+
+	}
+
+	
+
+.navigeshon .nav2 ul li button a{
+
+	text-decoration:none;
+
+	color:#FFFFFF;
+	
+	font-size:125%;
+
+	}
+
+.text1{
+	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
+	}
+	
+.text1 h1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:350%;
+	color:#FFFFFF;
+	}
+	
+.text1 from p{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:180%;
+	color:#FFFFFF;
+	}
